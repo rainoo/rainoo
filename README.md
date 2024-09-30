@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rainoo
 - 👀 I’m interested in AI Dataset
 - 🌱 I’m currently learning ML and so on ...
-- 💞️ I’m looking to collaborate on AI Data Annotation Platform, I am a product manager of AI Data Annotation Platform - Dataplus Pro <Produced by Datatang >:) 
+- 💞️ I’m looking to collaborate on AI Data Annotation Platform, I am a product manager of AI Data Annotation Platform - Dataplus Pro [ Produced by Datatang ]:) 
 - 📫 How to reach me gaoyu@datatang.com
 
 <!---
